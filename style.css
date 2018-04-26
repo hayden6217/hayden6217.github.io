@@ -249,5 +249,4 @@ html {
 }
 
 .details::-webkit-scrollbar {
-  display: none; // Safari and Chrome
-}
+  display: ; // Safari and Chrome}
